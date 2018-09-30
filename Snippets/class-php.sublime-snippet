@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<?php
+
+namespace ${1};
+
+class ${2}
+{
+    ${3}
+}
+]]></content>
+<tabTrigger>class</tabTrigger>
+<description>PHP class template</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, punctuation.section.embedded.begin.php</scope>
+</snippet>

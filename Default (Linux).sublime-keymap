@@ -1,0 +1,14 @@
+[
+	{ "keys": ["ctrl+shift+k"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+shift+m"], "command": "toggle_menu" },
+	{ "keys": ["ctrl+shift+w"], "command": "expand_selection", "args": {"to": "scope"} },
+    { "keys": ["alt+shift+e"], "command": "expand_fqcn" },
+    { "keys": ["alt+shift+i"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+    { "keys": ["alt+i"], "command": "find_use" },
+    { "keys": ["alt+shift+'"], "command": "goto_definition_scope" },
+    { "keys": ["alt+c"], "command": "insert_php_constructor_property" },
+    { "keys": ["ctrl+n"], "command": "advanced_new_file_new"},
+    { "keys": ["super+tab"], "command": "next_view" },
+    { "keys": ["shift+super+tab"], "command": "prev_view" }
+]
