@@ -5,14 +5,16 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"ensure_newline_at_eof_on_save": false,
 	"font_face": "Fira Code",
-	"font_size": 11,
+	"font_size": 9,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"PHP CS Fixer",
+		"SublimeLinter-phpcs",
 		"Vintage"
 	],
-	"line_padding_bottom": 15,
-	"line_padding_top": 15,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
 	"save_on_focus_lost": false,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,

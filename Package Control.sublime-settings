@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
 		"Colorsublime",
 		"Material Theme",
 		"Package Control",
@@ -13,6 +14,7 @@
 		"PHP Companion",
 		"PHP CS Fixer",
 		"ProjectManager",
+		"SideBarEnhancements",
 		"SnippetMaker",
 		"SublimeLinter",
 		"SublimeLinter-phpcs"
